@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~10.0.0",
     "@angular/router": "~10.0.0",
     "ini": "^2.0.0",
-    "is-svg": "^4.3.1",
+    "is-svg": "^4.4.0",
     "normalize-url": "^6.0.1",
     "postcss": "^8.3.4",
     "rxjs": "~6.5.5",
